@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://emmanuel-samuel.github.io/sitemap-index.xml
+Host: https://emmanuel-samuel.github.io
